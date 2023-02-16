@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028063699806",
+    "project_id": "testereserva",
+    "storage_bucket": "testereserva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028063699806:android:d09c3936b35ab03e8665cf",
+        "android_client_info": {
+          "package_name": "com.example.teste_reserva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028063699806-t9bi56bmmi2rql7map4e94hpk94pdgf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChCRA4zfUDNSa5qw5RqDOBNXF2X911N00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028063699806-t9bi56bmmi2rql7map4e94hpk94pdgf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
